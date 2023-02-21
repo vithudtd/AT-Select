@@ -1,3 +1,5 @@
+import CryptoJS from 'crypto-js';
+
 let atSelect = {
     ATS_elementClass : 'searchable-dropdown',
     ATS_elementMultiselectClass : 'multiple',
